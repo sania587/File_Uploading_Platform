@@ -4,7 +4,7 @@
 <br><b>2.<b> This project allow user to signup and login into their account.
 <br><b>3.<b> The user can upload any file after login and can view the uploaded file as well.
 <br><b>4.<b> The project has a database (mongodb) connected to it.
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br><br>This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
